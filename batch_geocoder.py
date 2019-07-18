@@ -18,7 +18,7 @@ logger.addHandler(ch)
 #------------------ CONFIGURATION -------------------------------
 
 # Set Google API key
-API_KEY = "AIzaSyCa4DIK5GuDAkl2wz5PDCZrI_haa-_--Hk"
+#API_KEY = None  
 BACKOFF_TIME = 30
 
 # Set output file
